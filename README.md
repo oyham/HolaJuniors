@@ -1,5 +1,5 @@
 # HolaJuniors
-Template objetivo para HolaJuniors.com
+Single-page objetivo para HolaJuniors.com
 
 https://holajuniors.com/temp.html ... Gracias a https://www.youtube.com/c/iosonomauri !
 
