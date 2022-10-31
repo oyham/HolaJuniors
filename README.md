@@ -8,4 +8,4 @@ Realicé el reto HolaJuniors #1  - Opcion B (https://www.figma.com/file/XYCezVsL
 Un poco de html y css, guiandome por Figma.
 
 
-by #Oyham. 
+by 👾 Oyham 👾
